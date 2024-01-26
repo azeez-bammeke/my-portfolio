@@ -13,11 +13,10 @@ root.render(
     /*  <React.StrictMode>*/
     <BrowserRouter history={createBrowserHistory()}>
         <Routes>
-            <Route path="/" element={<Header><App/></Header>} />
-            <Route path="/jokes" element={<Header><Jokes/></Header>} />
+            <Route path="/my-portfolio" element={<Header><App/></Header>} />
+            <Route path="/my-portfolio/jokes" element={<Header><Jokes/></Header>} />
         </Routes>
-    </BrowserRouter>,
-document.getElementById("root")
+    </BrowserRouter>
     /*  </React.StrictMode>*/
 );
 
