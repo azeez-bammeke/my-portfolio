@@ -16,7 +16,8 @@ root.render(
             <Route path="/" element={<Header><App/></Header>} />
             <Route path="/jokes" element={<Header><Jokes/></Header>} />
         </Routes>
-    </BrowserRouter>
+    </BrowserRouter>,
+document.getElementById("root")
     /*  </React.StrictMode>*/
 );
 
