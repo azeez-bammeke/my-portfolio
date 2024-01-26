@@ -31,12 +31,16 @@ h1, h2, h3, h4, h5 {
   opacity: 0;
   animation-name: fade-out;
   animation-duration: 2s;
+  font-family: "Book Antiqua";
+  font-size: 18px;
 }
 
 .title-fade-in {
   opacity: 0;
   animation-name: fade-in;
   animation-duration: 2s;
+  font-family: "Book Antiqua";
+  font-size: 18px;
 }
 
 @keyframes fade-out {

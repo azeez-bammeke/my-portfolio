@@ -1,0 +1,17 @@
+.skill-content {
+    font-weight: bolder !important;
+    font-family: "Book Antiqua";
+    color: maroon;
+}
+
+.intro-content {
+ color: orangered;
+    font-family: "Book Antiqua";
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.about-content {
+    font-family: "Book Antiqua";
+    font-size: 18px;
+}
