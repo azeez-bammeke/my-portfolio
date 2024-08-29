@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.23511e3d.css",
-    "main.js": "/my-portfolio/static/js/main.9baf3f39.js",
-    "static/media/project1.png": "/my-portfolio/static/media/project1.2054760085113f8017be.png",
+    "main.js": "/my-portfolio/static/js/main.643dcbaa.js",
+    "static/media/supermarket-image.png": "/my-portfolio/static/media/supermarket-image.4e014feade3adc5a4c8c.png",
+    "static/media/todo-project.png": "/my-portfolio/static/media/todo-project.39fb4ab327ab2245a4ac.png",
     "static/media/roboto-condensed.light.ttf": "/my-portfolio/static/media/roboto-condensed.light.d9e440de777389435df7.ttf",
     "static/media/my-picture.jpeg": "/my-portfolio/static/media/my-picture.d2f5b57b3065bb219270.jpeg",
     "static/media/img.png": "/my-portfolio/static/media/img.cde20366d5a0ac096d6b.png",
-    "static/media/img_1.png": "/my-portfolio/static/media/img_1.df1b3b02b9bf27d658c4.png",
     "static/media/economica-bold.ttf": "/my-portfolio/static/media/economica-bold.ce99c17a86c8c9ef7b81.ttf",
     "static/media/github_icon.png": "/my-portfolio/static/media/github_icon.ccc9e19951ebe8134688.png",
     "static/media/linkedin_icon.png": "/my-portfolio/static/media/linkedin_icon.27cd6ff778a81a45fa46.png",
@@ -14,10 +14,10 @@
     "static/media/email_icon.png": "/my-portfolio/static/media/email_icon.160a6010e180da253390.png",
     "index.html": "/my-portfolio/index.html",
     "main.23511e3d.css.map": "/my-portfolio/static/css/main.23511e3d.css.map",
-    "main.9baf3f39.js.map": "/my-portfolio/static/js/main.9baf3f39.js.map"
+    "main.643dcbaa.js.map": "/my-portfolio/static/js/main.643dcbaa.js.map"
   },
   "entrypoints": [
     "static/css/main.23511e3d.css",
-    "static/js/main.9baf3f39.js"
+    "static/js/main.643dcbaa.js"
   ]
 }
