@@ -24,12 +24,12 @@ class App extends Component {
                 </p>
                 { this.state.displayBio ? (
                     <div className= "about-content">
-                        <p>With over eight years of seasoned expertise as a software engineer,
-                            I have demonstrated a consistent track record in the development of scalable application software.
+                        <p>With over nine years of expertise as a software engineer, I have consistently demonstrated a track record of <b>developing scalable applications</b> and taking on <b>leadership roles.</b>
                         </p>
+                        <p>I hold certifications in Azure and AWS that demonstrate my skills in cloud technology and automation.</p>
                         <p>My proficiency encompasses the implementation of best practices, coupled with a profound understanding of design patterns and diverse architectural frameworks.
-                            Technologically adept, I have successfully utilized a spectrum of tools and frameworks, including
-                            <span className= "skill-content"> JSP Servlet, Spring Boot, Spring Cloud Function, ReactJS, Angular 16+, Docker/Docker Compose, Ansible, AWS, Azure, PCF, Maven, Gradle, MySQL, Redis, Keycloak Authentication Server, Okta, Jenkins, and Git.</span> My commitment to leveraging cutting-edge technologies ensures the delivery of high-quality and innovative solutions.
+                            Technologically adept, I have successfully utilized a spectrum of tools, languages and frameworks, including
+                            <span className= "skill-content">Java(8 - 21), C#, .Net Core, JSP Servlet, Spring Boot, Spring Cloud Function, ReactJS, Angular 16+, Docker/Docker Compose, Ansible, AWS, Azure, PCF, Maven, Gradle, MySQL, Redis, Keycloak Authentication Server, Okta, Jenkins, and Git.</span> My commitment to leveraging cutting-edge technologies ensures the delivery of high-quality and innovative solutions.
                          </p>
                         <p>I am well-versed in designing robust and efficient software systems, and my experience extends across various domains, reflecting a comprehensive grasp of industry requirements. I am driven by a passion for staying at the forefront of technological advancements, contributing to the success of projects through meticulous problem-solving and collaborative teamwork.
 
